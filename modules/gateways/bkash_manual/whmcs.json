@@ -1,0 +1,33 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "bkash_manual",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "bKash Manual Payment",
+    "tagline": "Accept manual bKash payments for WHMCS invoices.",
+    "long": "bKash Manual Payment allows clients to pay invoices by bKash and submit their Transaction ID, sender number, and paid amount for manual verification by your billing team.",
+    "features": [
+      "Manual bKash payment instructions on WHMCS invoices",
+      "Professional payment popup without breaking invoice layout",
+      "Transaction ID submission through support ticket",
+      "Configurable bKash number, payment type, business name, and department ID"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://lionstarhost.com/",
+    "email": "support@lionstarhost.com",
+    "support_url": "https://lionstarhost.com/submitticket.php",
+    "docs_url": "https://lionstarhost.com/"
+  },
+  "authors": [
+    {
+      "name": "LionStar Host",
+      "homepage": "https://lionstarhost.com/"
+    }
+  ]
+}
